@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Java, DSA**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/sreeja-portfolio](https://sites.google.com/view/sreeja-portfolio)
-
 - 💬 Ask me about **Python, C, AWS, ML, SQL**
 
 - 📫 How to reach me **sreejadevisetti@gmail.com**
